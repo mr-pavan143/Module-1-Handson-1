@@ -1,0 +1,76 @@
+# Fuzzy Shower Temperature Controller
+
+## Overview
+
+This project demonstrates a Fuzzy Logic Controller combined with
+Machine Learning for maintaining a comfortable shower temperature.
+
+---
+
+## Features
+
+✔ Machine Learning Classification
+
+✔ Random Forest Model
+
+✔ Fuzzy Logic Controller
+
+✔ Temperature Simulation
+
+✔ Automatic Valve Control
+
+✔ Temperature Graph
+
+✔ Accuracy Report
+
+---
+
+## Temperature Levels
+
+Low
+
+Medium
+
+High
+
+---
+
+## Input
+
+Current Temperature
+
+Desired Temperature
+
+---
+
+## Output
+
+Hot Valve %
+
+Cold Valve %
+
+Final Temperature
+
+Comfort Level
+
+---
+
+## Technologies
+
+Python
+
+NumPy
+
+Pandas
+
+Scikit Learn
+
+Scikit Fuzzy
+
+Matplotlib
+
+---
+
+## Run
+
+python main.py

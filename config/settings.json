@@ -1,0 +1,9 @@
+{
+  "target_temperature": 38,
+  "simulation_duration": 120,
+  "hot_valve_default": 50,
+  "cold_valve_default": 50,
+  "enable_machine_learning": true,
+  "enable_fuzzy_logic": true,
+  "graph_refresh_rate": 1000
+}

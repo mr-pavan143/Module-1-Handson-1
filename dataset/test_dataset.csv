@@ -1,0 +1,11 @@
+Current_Temp,Desired_Temp,Temperature_Error,Temperature_Change,Comfort_Level
+26,38,12,2,Low
+31,38,7,1,Medium
+38,38,0,0,Medium
+42,38,-4,-1,High
+45,38,-7,-2,High
+30,37,7,1,Medium
+36,37,1,0,Medium
+41,37,-4,-1,High
+29,39,10,2,Low
+39,39,0,0,Medium
